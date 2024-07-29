@@ -1,7 +1,7 @@
-Video Location Estimator
-Overview
+#Video Location Estimator
+##Overview
 This project uses the SatCLIP model to estimate the geographic location of a video based on its visual content. It works by extracting frames from the video, processing each frame through the SatCLIP model, and averaging the estimated locations to produce a final location estimate.
-Prerequisites
+##Prerequisites
 
 Python 3.7+
 FFmpeg
